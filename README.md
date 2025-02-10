@@ -31,6 +31,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/Mysql-4EA94B?style=for-the-badge&logo=Mysql&logoColor=white" alt="MySql" /> </a>
 </p>
 
 <h3>Me Puedes Encontrar Como:</h3>
