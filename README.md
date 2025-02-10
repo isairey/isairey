@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isairey&label=Profile%20views&color=0e75b6&style=flat" alt="isairey" /> </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languajes:</h3>
 
 <p align="left">
 
