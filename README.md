@@ -120,9 +120,9 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
       
   |📌 Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
   |-------------|----------|---------------|----------------|-----------|---------|
-  |![Static Badge](https://img.shields.io/badge/WEB_SCRAPER-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/scraper) | ![GitHub issues](https://img.shields.io/github/issues/isairey/scraper?color=red)|
+  |![Static Badge](https://img.shields.io/badge/WEB_SCRAPER-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/isairey/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/scraper) | ![GitHub issues](https://img.shields.io/github/issues/isairey/scraper?color=red)|
   |![Static Badge](https://img.shields.io/badge/PROXY_MICROSERVICE-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/isairey/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/p/proxy-web-microservice?color=red)|
-  |![Static Badge](https://img.shields.io/badge/E_COMMERCE_DEMO-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/ecomerceDemo?color=red)|
+  |![Static Badge](https://img.shields.io/badge/E_COMMERCE_DEMO-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/isairey/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/isairey/ecomerceDemo?color=red)|
    
   </div>
 </section>
@@ -135,7 +135,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
    
 
-  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+  ![rainbow](https://github.com/isairey/isairey/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
   
 
@@ -143,7 +143,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
-  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaiRey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Chmod351" /> |<img src="https://github-readme-stats.vercel.app/api?username=IsaiRey&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="IsaiRey" />      | 
+  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaiRey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="isairey" /> |<img src="https://github-readme-stats.vercel.app/api?username=IsaiRey&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="IsaiRey" />      | 
     
   </div>
 </footer>
