@@ -140,11 +140,11 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
   
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=Chmod351&theme=transparent&hide_border=true&mode=weekly)]
+   ![GitHub Streak](https://streak-stats.demolab.com?user=Chmod351&theme=transparent&hide_border=true&mode=weekly)
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
-  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chmod351&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="isairey" /> |<img src="https://github-readme-stats.vercel.app/api?username=Chmod351&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="isairey" />      | 
+  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chmod351&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Chmod351" /> |<img src="https://github-readme-stats.vercel.app/api?username=Chmod351&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Chmod351" />      | 
     
   </div>
 </footer>
