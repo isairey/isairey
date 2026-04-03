@@ -147,13 +147,8 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
 <p align="center">
 
-  ## 🚀 Tecnologías
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isairey&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=tokyonight" />
 
 </p>
 
