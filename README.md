@@ -144,7 +144,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
-  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=isairey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="isairey" /> |<img src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="isairey" />      | 
+  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chmod351&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="isairey" /> |<img src="https://github-readme-stats.vercel.app/api?username=Chmod351&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="isairey" />      | 
     
   </div>
 </footer>
