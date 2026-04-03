@@ -144,9 +144,14 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
    ![GitHub Streak](https://streak-stats.demolab.com?user=isairey&theme=transparent&hide_border=true&mode=weekly)
     
-  |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
-  | ---------------| ------------------ |
-  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=isairey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="isairey" /> |<img src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="isairey" />      | 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isairey&theme=transparent&hide_border=true" />
+</p>
     
   </div>
 </footer>
