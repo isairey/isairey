@@ -45,7 +45,8 @@
 <div align="center">
   
  
-<img width="1536" height="257" alt="Banner colorido para" src="https://github.com/user-attachments/assets/e3e26e33-e0bf-41d2-b1c3-d5f9529d5075" />
+<img width="1536" height="329" alt="Banner profesional f" src="https://github.com/user-attachments/assets/3c4eae90-1eea-438e-8a54-dd153250b5e6" />
+
 
 </div>
 
