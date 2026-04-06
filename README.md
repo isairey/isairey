@@ -83,22 +83,7 @@
     </div>
 </section>
 
-<section>
-  <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left" width="250"/>
-
-  <div>
-    <h3 align="center">🌱 Sobre mí</h3>
-
-    <p style="text-align: justify;">
-      Apasionado por el desarrollo <strong>Full-Stack/Backend</strong> y la cultura <strong>Linux/Open Source</strong>, busco aplicar mis habilidades para construir soluciones robustas y escalables. 
-      Mi amor por el código me impulsa al aprendizaje continuo de nuevas tecnologías y a la optimización de mi trabajo.
-    </p>
-
-    <p style="text-align: justify;">
-      Busco unirme a un equipo de ingeniería de software que fomente el crecimiento mutuo, donde pueda aportar valor y enfrentar desafíos diarios que me ayuden a crecer profesionalmente.
-    </p>
-  </div>
-</section>
+<section> <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left" /> <div align="right"> <h3 align="center">🌱 Sobre mi </h3> <div align="center"> Apasionado por el desarrollo <strong>Full-Stack/Backend</strong> y la cultura <strong>Linux/Open Source</strong>, busco aplicar mis habilidades para construir soluciones robustas y escalables. Mi amor por el código me impulsa al aprendizaje continuo de nuevas tecnologías y a la optimización de mi trabajo. Busco unirme a un equipo de ingeniería de software que fomente el crecimiento mutuo, donde pueda aportar valor y enfrentar desafíos diarios que me ayuden a crecer profesionalmente. </div> </div> </section>
 
 ---
 
