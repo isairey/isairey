@@ -67,7 +67,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/CODE-ISAI_REYES-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Isai Reyes Coding"/>
- <img src="https://komarev.com/ghpvc/?username=isairey&label=Profile%20views&color=0e75b6&style=flat" alt="isairey" />
+
 </div>
 
 ---
