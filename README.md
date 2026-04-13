@@ -165,19 +165,13 @@
   <img src="https://ghchart.rshah.org/isairey" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=tokyonight&v=123" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isairey&theme=tokyonight" />
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isairey&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isairey&theme=tokyonight" />
-</p>
 
   </div>
 </footer>
