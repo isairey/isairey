@@ -171,8 +171,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isairey&theme=default" />
 </p>
 
-
-
   </div>
 </footer>
 
