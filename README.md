@@ -165,7 +165,9 @@
   <img src="https://ghchart.rshah.org/isairey" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isairey&theme=default" />
