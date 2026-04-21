@@ -171,10 +171,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isairey&theme=default" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isairey&theme=default&hide_border=true" />
-</p>
   </div>
 </footer>
 
