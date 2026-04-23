@@ -160,10 +160,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true" />
 </p>
 
-<p align="center">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=1)
 
-</p>
+
 
 <p align="center">
   <img src="https://ghchart.rshah.org/isairey" />
