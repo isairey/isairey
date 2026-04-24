@@ -192,11 +192,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=11)
 
 
-
+<!--
 <p align="center">
   <img src="https://ghchart.rshah.org/isairey" />
 </p>
-
+-->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isairey&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isairey&theme=default" />
