@@ -89,6 +89,36 @@
   Mi Interes por el código me impulsa al aprendizaje continuo de nuevas tecnologías y a la optimización de mi trabajo. 
   Busco unirme a un equipo de ingeniería de software que fomente el crecimiento mutuo, donde pueda aportar valor y enfrentar desafíos diarios que me ayuden a crecer profesionalmente.
 </div> </div> </section>
+---
+
+## 🏆 Logros y Participaciones
+
+* 🥇 **Robomatrix Continental**
+
+  * 1er lugar en *Seguidor de Línea Master*
+
+* 🥇🥈 **RoboDuca**
+
+  * Oro en *Minisumo*
+  * Plata en *Minisumo*
+  * 1er lugar en *Seguidor de Línea*
+
+* 🥉 **RoboChallenge**
+
+  * 3er lugar en *Seguidor de Línea Master*
+  * 4to lugar en *Minisumo*
+
+* 🥇🥈🥇 **Infomatrix**
+
+  * 1er y 2do lugar en *Seguidor de Línea Master*
+  * 1er lugar en *Minisumo*
+
+* ⚡ **Reto 24 Horas**
+
+  * Participación en desafío intensivo de desarrollo y resolución de problemas en tiempo limitado, fortaleciendo habilidades de trabajo bajo presión, colaboración y toma de decisiones.
+
+
+
 
 ---
 
