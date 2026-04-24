@@ -90,7 +90,8 @@
   Busco unirme a un equipo de ingeniería de software que fomente el crecimiento mutuo, donde pueda aportar valor y enfrentar desafíos diarios que me ayuden a crecer profesionalmente.
 </div> </div> </section>
 ---
-
+<br>
+<br>
 ## 🏆 Logros y Participaciones
 
 * 🥇 **Robomatrix Continental**
