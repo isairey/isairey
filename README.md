@@ -89,9 +89,9 @@
   Mi Interes por el código me impulsa al aprendizaje continuo de nuevas tecnologías y a la optimización de mi trabajo. 
   Busco unirme a un equipo de ingeniería de software que fomente el crecimiento mutuo, donde pueda aportar valor y enfrentar desafíos diarios que me ayuden a crecer profesionalmente.
 </div> </div> </section>
+
 ---
-<br>
-<br>
+
 ## 🏆 Logros y Participaciones
 
 * 🥇 **Robomatrix Continental**
@@ -117,9 +117,6 @@
 * ⚡ **Reto 24 Horas**
 
   * Participación en desafío intensivo de desarrollo y resolución de problemas en tiempo limitado, fortaleciendo habilidades de trabajo bajo presión, colaboración y toma de decisiones.
-
-
-
 
 ---
 
