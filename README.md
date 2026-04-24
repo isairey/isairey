@@ -94,19 +94,36 @@
 
 ## 🏆 Logros y Participaciones
 
-| 🏅 Competencia         | 🏆 Logro        | 🤖 Categoría                    |
-| ---------------------- | --------------- | ------------------------------- |
-| Robomatrix Continental | 🥇 1er lugar    | Seguidor de Línea Master        |
-| RoboDuca               | 🥇 Oro          | Minisumo                        |
-| RoboDuca               | 🥈 Plata        | Minisumo                        |
-| RoboDuca               | 🥇 1er lugar    | Seguidor de Línea               |
-| RoboChallenge          | 🥉 3er lugar    | Seguidor de Línea Master        |
-| RoboChallenge          | 4️⃣ 4to lugar   | Minisumo                        |
-| Infomatrix             | 🥇 1er lugar    | Seguidor de Línea Master        |
-| Infomatrix             | 🥈 2do lugar    | Seguidor de Línea Master        |
-| Infomatrix             | 🥇 1er lugar    | Minisumo                        |
-| Reto 24 Horas          | ⚡ Participación | Desafío intensivo de desarrollo |
+### 🥇 Robomatrix Continental
 
+**1er lugar — Seguidor de Línea Master**
+
+---
+
+### 🥇🥈 RoboDuca
+
+**Oro y Plata — Minisumo**
+**1er lugar — Seguidor de Línea**
+
+---
+
+### 🥉 RoboChallenge
+
+**3er lugar — Seguidor de Línea Master**
+**4to lugar — Minisumo**
+
+---
+
+### 🥇🥈🥇 Infomatrix
+
+**1er y 2do lugar — Seguidor de Línea Master**
+**1er lugar — Minisumo**
+
+---
+
+### ⚡ Reto 24 Horas
+
+Participación en desafío intensivo de desarrollo, enfocado en resolución de problemas, trabajo en equipo y desempeño bajo presión.
 
 
 
