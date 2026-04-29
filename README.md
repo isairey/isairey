@@ -215,7 +215,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=11" />
+  <img src="https://streak-stats.demolab.com?user=isaireyesp1&cache_seconds=11" />
 </p>
 
 
@@ -225,7 +225,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&cache_seconds=11)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=11)
 
 
 <!--
