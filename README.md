@@ -227,12 +227,12 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=1)
 
-![Repo Stats](https://github-readme-stats.vercel.app/api?username=RamonSilva20&show_icons=true)
 
-![Stars](https://img.shields.io/github/stars/RamonSilva20/mapos?style=flat-square)
-![Forks](https://img.shields.io/github/forks/RamonSilva20/mapos?style=flat-square)
-![Issues](https://img.shields.io/github/issues/RamonSilva20/mapos?style=flat-square)
-![Contributors](https://img.shields.io/github/contributors/RamonSilva20/mapos?style=flat-square)
+
+![Stars](https://img.shields.io/github/stars/isairey/mapos?style=flat-square)
+![Forks](https://img.shields.io/github/forks/isairey/mapos?style=flat-square)
+![Issues](https://img.shields.io/github/issues/isairey/mapos?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/isairey/mapos?style=flat-square)
 
 <!--
 <p align="center">
