@@ -228,6 +228,11 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=1)
 
 
+![Stars](https://img.shields.io/github/stars/RamonSilva20/mapos?style=flat-square)
+![Forks](https://img.shields.io/github/forks/RamonSilva20/mapos?style=flat-square)
+![Issues](https://img.shields.io/github/issues/RamonSilva20/mapos?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/RamonSilva20/mapos?style=flat-square)
+
 <!--
 <p align="center">
   <img src="https://ghchart.rshah.org/isairey" />
