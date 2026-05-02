@@ -228,6 +228,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=1)
 
 
+<!--
 ## 📊 Estadísticas
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=radical)
@@ -236,7 +237,6 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ![Streak](https://streak-stats.demolab.com?user=isairey&theme=radical)
 
-<!--
 ![Stars](https://img.shields.io/github/stars/isairey/mapos?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/isairey/mapos?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/isairey/mapos?style=flat-square)
