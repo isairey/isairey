@@ -92,6 +92,14 @@
 
 ---
 
+💻 Desarrollador Full-Stack enfocado en Backend y Web3  
+🚀 Experiencia en desarrollo de sistemas empresariales (ERP, APIs, dashboards)  
+🔐 Implementación de firma de contratos en blockchain (testnet)  
+🐧 Entusiasta de Linux y Open Source  
+🏆 Ganador en competencias de robótica (Robomatrix, Infomatrix)  
+
+---
+
 ## 🏆 Logros y Participaciones
 
 ### 🥇 Robomatrix Continental
