@@ -169,18 +169,75 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 -->
 ---
 
-<section>
-  <div align="center">
-   
-  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
-    <h3>👨‍💻 Languages and Tools:</h3>
-   
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,vue,nuxtjs,redux,nodejs,express,nestjs,php,laravel,java,spring,kotlin,androidstudio,flutter,dart,python,django,flask,fastapi,go,rust,cpp,c,cs,dotnet,mysql,postgres,mongodb,redis,firebase,supabase,docker,kubernetes,linux,bash,git,github,gitlab,vercel,netlify,aws,gcp,azure,figma,photoshop,blender,threejs,solidity,ethereum,jest,vitest,sequelize,hibernate" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=180&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+# ⚡ Languages & Technologies
+
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,vue,nuxtjs,redux,threejs" />
 </p>
-   
-  </div>
-</section>
+
+---
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,spring,python,django,flask,fastapi,go,dotnet" />
+</p>
+
+---
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" />
+</p>
+
+---
+
+### 🗄️ Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,sequelize,hibernate" />
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,aws,gcp,azure,vercel,netlify" />
+</p>
+
+---
+
+### 🔗 Blockchain & Web3
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+</p>
+
+---
+
+### 🎨 Design & Creative Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
+</p>
+
+---
+
+### 🧪 Testing & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,git,github,gitlab" />
+</p>
+
+</div>
 
 ---
 
