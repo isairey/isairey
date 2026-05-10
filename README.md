@@ -254,13 +254,13 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 > Sistema avanzado de scraping y automatización de datos web.
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Chmod351/scraper?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/last-commit/Chmod351/scraper?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/Chmod351/scraper?style=for-the-badge&color=red">
+  <img src="https://img.shields.io/github/languages/top/isairey/-WEB-SCRAPER?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/last-commit/isairey/-WEB-SCRAPER?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/isairey/-WEB-SCRAPER?style=for-the-badge&color=red">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Chmod351/scraper">
+  <a href="https://github.com/isairey/-WEB-SCRAPER">
     <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
   </a>
 </p>
