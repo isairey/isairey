@@ -241,20 +241,101 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-<section>
-    <div align="center"> 
-    <h3>Projects</h3>
-      
-  |📌 Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
-  |-------------|----------|---------------|----------------|-----------|---------|
-  |![Static Badge](https://img.shields.io/badge/WEB_SCRAPER-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/scraper?color=red)|
-  |![Static Badge](https://img.shields.io/badge/FrontendTienda-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/FrontendTienda?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/isairey/FrontendTienda?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/FrontendTienda?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/FrontendTienda) | ![GitHub issues](https://img.shields.io/github/issues/isairey/FrontendTienda?color=red)|
-  |![Static Badge](https://img.shields.io/badge/POS_MODERNO-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/POS_MODERNO?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/isairey/POS_MODERNO?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/POS_MODERNO?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/POS_MODERNO) | ![GitHub issues](https://img.shields.io/github/issues/isairey/POS_MODERNO?color=red)|
-  |![Static Badge](https://img.shields.io/badge/ERP-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/IRP?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/isairey/IRP?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/IRP?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/IRP) | ![GitHub issues](https://img.shields.io/github/issues/isairey/IRP?color=red)|
-  |![Static Badge](https://img.shields.io/badge/APPMovil-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/isairey/App_Movil_Sysges?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/isairey/App_Movil_Sysges?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/isairey/App_Movil_Sysges?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/isairey/App_Movil_Sysges) | ![GitHub issues](https://img.shields.io/github/issues/isairey/App_Movil_Sysges?color=red)|
-   
-  </div>
-</section>
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
+
+---
+
+## 🕷️ WEB SCRAPER
+
+> Sistema avanzado de scraping y automatización de datos web.
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Chmod351/scraper?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/last-commit/Chmod351/scraper?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Chmod351/scraper?style=for-the-badge&color=red">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Chmod351/scraper">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 🛒 FrontendTienda
+
+> Plataforma frontend moderna para ecommerce y gestión de productos.
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/isairey/FrontendTienda?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/last-commit/isairey/FrontendTienda?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/isairey/FrontendTienda?style=for-the-badge&color=red">
+</p>
+
+<p align="center">
+  <a href="https://github.com/isairey/FrontendTienda">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 💳 POS_MODERNO
+
+> Sistema POS moderno orientado a ventas y administración comercial.
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/isairey/POS_MODERNO?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/last-commit/isairey/POS_MODERNO?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/isairey/POS_MODERNO?style=for-the-badge&color=red">
+</p>
+
+<p align="center">
+  <a href="https://github.com/isairey/POS_MODERNO">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 🏢 ERP System
+
+> Plataforma ERP para administración empresarial y procesos internos.
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/isairey/IRP?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/last-commit/isairey/IRP?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/isairey/IRP?style=for-the-badge&color=red">
+</p>
+
+<p align="center">
+  <a href="https://github.com/isairey/IRP">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 📱 APP Movil Sysges
+
+> Aplicación móvil enfocada en administración y control de sistemas.
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/isairey/App_Movil_Sysges?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/last-commit/isairey/App_Movil_Sysges?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/isairey/App_Movil_Sysges?style=for-the-badge&color=red">
+</p>
+
+<p align="center">
+  <a href="https://github.com/isairey/App_Movil_Sysges">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
