@@ -361,18 +361,18 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=59" />
+  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=5" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=14" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=4" />
 </p>
 
 ![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=14)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=1)
 
 
 <!--
