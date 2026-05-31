@@ -355,13 +355,13 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isairey&theme=vue" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=vue&cache_seconds=1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=vue&cache_seconds=21" />
 
 </p>
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=5" />
+  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=25" />
 </p>
 
 
@@ -372,7 +372,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=21)
 
 
 <!--
