@@ -372,7 +372,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=122)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=22)
 
 
 <!--
