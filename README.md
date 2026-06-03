@@ -361,7 +361,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=222" />
+  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=22" />
 </p>
 
 
