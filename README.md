@@ -355,13 +355,13 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isairey&theme=vue" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=vue&cache_seconds=30" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=vue&cache_seconds=320" />
 
 </p>
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=2223" />
+  <img src="https://streak-stats.demolab.com?user=isairey&cache_seconds=223" />
 </p>
 
 
