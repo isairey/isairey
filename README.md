@@ -376,8 +376,8 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=2262"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=2167"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=262"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=217"/>
 
 </div>
 
