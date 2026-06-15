@@ -367,7 +367,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=2212" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=22162" />
 </p>
 
 ![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
@@ -376,8 +376,8 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=222"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=217"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=2262"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=2167"/>
 
 </div>
 
