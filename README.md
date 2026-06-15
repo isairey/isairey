@@ -241,11 +241,6 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-<div align="center">
-
-# 🚀 Featured Projects
-
-</div>
 
 # 🚀 Featured Projects
 
