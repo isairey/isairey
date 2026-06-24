@@ -424,7 +424,7 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=2232"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=22332"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=2322"/>
 
 </div>
