@@ -422,11 +422,11 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 <div align="center">
 
 <a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=27"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=227"/>
 </a>
 
 <a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=27"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=227"/>
 </a>
 
 </div>
