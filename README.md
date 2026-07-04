@@ -421,12 +421,12 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=232">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=272"/>
+<a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=2372">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=2782"/>
 </a>
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=27">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=22"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=277">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=282"/>
 </a>
 
 </div>
