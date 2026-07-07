@@ -407,8 +407,8 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 
 
  <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=isairey&cache_seconds=323" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=isairey&cache_seconds=12121" />
+ </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=33" />
