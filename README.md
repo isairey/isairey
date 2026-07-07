@@ -405,9 +405,8 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 </p>
 
 
-<p align="center">
+
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=tokyonight)
-</p>
 
 
 
