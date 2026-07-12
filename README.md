@@ -104,7 +104,7 @@
 
 ---
 
-## 🏆 Logros y Participaciones
+##  Logros y Participaciones
 
 ### 🥇 Robomatrix Continental
 
@@ -172,9 +172,9 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=180&section=header&text=Tech%20Stack&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# ⚡ Languages & Technologies
+#  Languages & Technologies
 
-### 💻 Frontend
+###  Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,vue,nuxtjs,redux,threejs" />
@@ -182,7 +182,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,spring,python,django,flask,fastapi,go,dotnet" />
@@ -190,7 +190,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-### 📱 Mobile Development
+###  Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart" />
@@ -198,7 +198,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-### 🗄️ Databases & ORM
+###  Databases & ORM
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase,sequelize,hibernate" />
@@ -206,7 +206,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,aws,gcp,azure,vercel,netlify" />
@@ -214,7 +214,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-### 🔗 Blockchain & Web3
+###  Blockchain & Web3
 
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
@@ -222,7 +222,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-### 🎨 Design & Creative Tools
+###  Design & Creative Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
@@ -230,7 +230,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-### 🧪 Testing & Workflow
+###  Testing & Workflow
 
 <p>
   <img src="https://skillicons.dev/icons?i=jest,vitest,git,github,gitlab" />
@@ -241,7 +241,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 ---
 
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <div align="center">
 
@@ -251,7 +251,7 @@ Participación en desafío intensivo de desarrollo, enfocado en resolución de p
 
 ---
 
-## 🕷️ WEB SCRAPER
+##  WEB SCRAPER
 ### Sistema Inteligente de Extracción y Automatización de Datos Web
 
 Automatización avanzada para la recopilación, procesamiento y análisis de información desde múltiples fuentes web utilizando técnicas de scraping y extracción de datos.
@@ -278,7 +278,7 @@ Automatización avanzada para la recopilación, procesamiento y análisis de inf
 
 ---
 
-## 🛒 FRONTEND TIENDA
+##  FRONTEND TIENDA
 ### Plataforma Ecommerce Moderna para Gestión Comercial
 
 Frontend desarrollado para una tienda virtual con catálogo dinámico, administración de productos y experiencia de usuario optimizada.
@@ -305,7 +305,7 @@ Frontend desarrollado para una tienda virtual con catálogo dinámico, administr
 
 ---
 
-## 💳 POS MODERNO
+##  POS MODERNO
 ### Sistema Punto de Venta Profesional
 
 Software diseñado para la administración de ventas, inventarios, clientes y operaciones comerciales en tiempo real.
@@ -332,7 +332,7 @@ Software diseñado para la administración de ventas, inventarios, clientes y op
 
 ---
 
-## 🏢 ERP SYSTEM
+##  ERP SYSTEM
 ### Plataforma Empresarial de Gestión Integral
 
 Sistema ERP orientado al control de procesos administrativos, recursos, operaciones y gestión empresarial.
@@ -359,7 +359,7 @@ Sistema ERP orientado al control de procesos administrativos, recursos, operacio
 
 ---
 
-## 📱 SYSGES MOBILE
+##  SYSGES MOBILE
 ### Aplicación Móvil para Gestión y Administración
 
 Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y administración de procesos empresariales.
