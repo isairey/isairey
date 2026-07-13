@@ -409,7 +409,7 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 
 
  <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=isairey&cache_seconds=144 />
+  <img src="https://streak-stats.demolab.com/?user=isairey&cache_seconds=144" />
  </p>
 
 <p align="center">
