@@ -420,7 +420,9 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&cache_seconds=273)-->
 
-<a href="https://github-stats-extended.vercel.app/api?username=isairey"><img src="https://github-stats-extended.vercel.app/api?username=isairey"></a>
+## 📊 GitHub Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isairey&theme=github_dark)
 
 <div align="center">
 
