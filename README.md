@@ -104,7 +104,7 @@
 
 ---
 
-##  Logros y Participaciones
+## 🏆 Logros y Participaciones
 
 ### 🥇 Robomatrix Continental
 
@@ -114,21 +114,21 @@
 
 ### 🥇🥈 RoboDuca
 
-**Oro y Plata — Minisumo**
+**1er y 2do lugar — Minisumo**  
 **1er lugar — Seguidor de Línea**
 
 ---
 
 ### 🥉 RoboChallenge
 
-**3er lugar — Seguidor de Línea Master**
+**3er lugar — Seguidor de Línea Master**  
 **4to lugar — Minisumo**
 
 ---
 
 ### 🥇🥈🥇 Infomatrix
 
-**1er y 2do lugar — Seguidor de Línea Master**
+**1er y 2do lugar — Seguidor de Línea Master**  
 **1er lugar — Minisumo**
 
 ---
@@ -136,7 +136,6 @@
 ### ⚡ Reto 24 Horas
 
 Participación en desafío intensivo de desarrollo, enfocado en resolución de problemas, trabajo en equipo y desempeño bajo presión.
-
 
 
 <!--
