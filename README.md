@@ -421,7 +421,10 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 
 
 <div align="center">
-
+ 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isairey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 <a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=582">
   <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=328"/>
 </a>
