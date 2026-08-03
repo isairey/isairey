@@ -401,7 +401,7 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isairey&theme=vue" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=vue&cache_seconds=7825" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isairey&theme=vue&cache_seconds=785" />
 
 </p>
 
@@ -412,7 +412,7 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
  </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=8728" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true&cache_seconds=828" />
 </p>
 
 ![Shehanka snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
@@ -422,16 +422,16 @@ Aplicación desarrollada para dispositivos móviles enfocada en el monitoreo y a
 
 <div align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=5829">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=3287"/>
+<a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=582">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true&cache_seconds=328"/>
 </a>
 <!--
 <a href="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=32">
   <img height="160em" src="https://github-stats-extended.vercel.app/api?username=isairey&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&theme=default&hide_border=true&cache_seconds=32"/>
 </a>
 -->
-<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=8687">
-  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=5275"/>
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=887">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true&cache_seconds=575"/>
 </a>
 
 </div>
